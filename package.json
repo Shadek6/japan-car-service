@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "depcom": "node src/deploy-commands.js"
+  },
+  "devDependencies": {
+    "@types/node-cache": "^4.2.5",
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "eslint": "^8.55.0",
+    "mongodb": "^6.3.0",
+    "node-cache": "^5.1.2",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2"
+  }
+}

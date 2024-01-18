@@ -1,0 +1,4 @@
+src/commands/*.js
+index.ts
+deploy-commands.js
+tsconfig.json
